@@ -1,0 +1,21 @@
+# Ignore binary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.xcodeproj
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.iobj
+*.ipdb
+*.pdb
+*.opendb
+*.db
+*.DS_Store
